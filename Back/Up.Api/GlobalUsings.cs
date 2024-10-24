@@ -1,0 +1,14 @@
+global using System.Text.RegularExpressions;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using Up.Core.Exceptions;
+global using Up.Core.Handlers;
+global using Up.Core.Helpers.Interfaces;
+global using Up.Core.Models;
+global using UP.DTO;
+global using Up.Infrastructure.Repositories.Interfaces;
+global using Microsoft.AspNetCore.Authorization;
+global using UP.Services.Interfaces;
+global using Up.Core.DTO;
+global using Newtonsoft.Json.Linq;
+global using UP.Migrations.Services.Interfaces;
