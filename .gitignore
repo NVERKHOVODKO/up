@@ -200,3 +200,4 @@ msbuild.wrn
 mono_crash.*
 
 
+/cryptoicons_png/
